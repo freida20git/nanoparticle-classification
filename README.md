@@ -5,7 +5,7 @@
 This project compares the performance of **Segment Anything Model (SAM)** and **YOLOv11** for classifying different nanoparticle shapes (triangles, dots, and cubes).  
 We show that **SAM-based pipelines** significantly outperform YOLO—even with small datasets.
 
-All data used in this project can be accessed here: [Google Drive Link](_____link_____)
+All data used in this project can be accessed here: [Google Drive Link](https://drive.google.com/drive/folders/1wZ0Zisg6iVj5zUIjzwbVh-Tz64DWfljX?usp=drive_link)
 
 ---
 
@@ -15,7 +15,9 @@ All data used in this project can be accessed here: [Google Drive Link](_____lin
 
 ---
 ## Performance Summary
+
 results could be found in `Summary_Table.pdf` file.
+
 ---
 
 ## 📁 Repository Structure Description
@@ -142,7 +144,7 @@ Where:
 - All values are **normalized** by the image width and height  
 - Each object in the image is represented by one line
 
-YOLO label files are available here:   [YOLO Labels (Google Drive)](link) 
+YOLO label files are available here:   [YOLO Labels (Google Drive)](https://drive.google.com/drive/folders/1dNw4w5SPl-GNliLuz82RIDgQeZAh--mw?usp=drive_link) 
 
 
 ---
