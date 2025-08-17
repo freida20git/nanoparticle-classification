@@ -8,6 +8,12 @@ We show that **SAM-based pipelines** significantly outperform YOLO—even with s
 All data used in this project can be accessed here: [Google Drive Link](_____link_____)
 
 ---
+
+## Paper: 
+
+[Zero-shot Shape Classification of Nanoparticles in SEM Images using Vision Foundation Models](https://arxiv.org/abs/2508.03235) 
+
+---
 ## Performance Summary
 results could be found in `Summary_Table.pdf` file.
 ---
